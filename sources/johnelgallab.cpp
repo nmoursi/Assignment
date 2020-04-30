@@ -1,6 +1,6 @@
-#include "sources/johnelgallab.h"
+#include "headers/johnelgallab.h"
 int main()
 {
-printName();
+printJohnName();
 return 0;
 }
